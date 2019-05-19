@@ -1,0 +1,10 @@
+# cache
+__pycache__/
+.pytest_cache
+.cache/
+
+# idea
+.idea/
+
+# mac system file
+.DS_Store
